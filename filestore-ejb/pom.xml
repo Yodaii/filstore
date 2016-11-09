@@ -53,10 +53,10 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>org.wildfly.arquillian</groupId>
-			<artifactId>wildfly-arquillian-container-managed</artifactId>
-			<scope>test</scope>
-		</dependency>
+			    <groupId>com.heroku.sdk</groupId>
+			    <artifactId>heroku-maven-plugin</artifactId>
+			    <version>1.1.2</version>
+			</dependency>
 		<dependency>
 			<groupId>org.jboss.shrinkwrap.resolver</groupId>
 			<artifactId>shrinkwrap-resolver-depchain</artifactId>

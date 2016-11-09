@@ -1,0 +1,1 @@
+web: sh filestore-web/target/filestore-web

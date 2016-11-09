@@ -1,1 +1,0 @@
-web: java -jar  filestore-ejb/target/filestore-ejb.jar
